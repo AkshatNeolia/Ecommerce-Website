@@ -19,10 +19,6 @@ eShop.com is an e-Commerce website that enables users to shop through variety of
 
 [EShop.com](https://eshop-firebase.vercel.app/)
 
-## Getting-Started
-
-Feel free to fork the project and change it to your likings. Try it out by cloning the repo to your local machine or download the zip
-
 ## Prerequisites
 
 You need preferably the latest version of Chrome, and text editor.
