@@ -10,7 +10,6 @@ eShop.com is an e-Commerce website that enables users to shop through variety of
 ## Summary
 
 - :star: [Website Link](#website-link)
-- :star: [Getting Started](#getting-started)
 - :star: [Prerequisites](#prerequisites)
 - :star: [Installing](#installing)
 - :star: [Built With](#built-with)
