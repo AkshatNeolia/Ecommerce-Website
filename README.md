@@ -36,13 +36,13 @@ To get started follow this guide:
 In your terminal clone repo to your local machine using git clone:
 
 ```
-git clone https://github.com/kartikpavan/Fullstack-Ecommerce.git
+git clone https://github.com/AkshatNeolia/Ecommerce-Website.git
 ```
 
 Move to your newly cloned repo by entering the following in your terminal:
 
 ```
-$ cd Fullstack-Ecommerce && yarn or npm install
+$ cd Ecommerce-Website && yarn or npm install
 ```
 
 To Run Project:-
@@ -70,6 +70,3 @@ $ code .
 - Tailwind CSS
 - Daisy UI
 
-## Software Developer
-
-- **Kartik Pavan**
